@@ -1,0 +1,2 @@
+# Sistema-de-citas-programadas-y-operaciones-m-dicas-de-un-paciente-
+El proyecto consiste en brindar un sistema que facilite el agendamiento de citas médicas de los hospitales y consultorios, basado en estructuras de datos para poder tener un mejor manejo de los datos, evitando con su aplicación las situaciones que pueden presentarse al llevarse a cabo esta tarea como el que coincidan en un mismo horario dos citas, y haciendo que se logre poder brindar un servicio eficiente a los pacientes. 
