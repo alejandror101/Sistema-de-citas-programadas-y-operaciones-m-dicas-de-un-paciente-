@@ -15,4 +15,5 @@ Este programa se basa en la atención de pacientes para ello usamos clases en es
                 
 Para usar el programa se necesita tener instalado python3 en su computadora si usa alguna distribucuón basada en linux, en caso de usar otro sistema operativo se necesitara un IDE que acepte codigos en python.
 Para ejecutar basta con tener todos los archivos .py en una misma carpeta y ejecutar Consultorio.py. Los archivos persona.py y queue.py sirven como complementos del programa. Para obtener la instrucción de compilación lea el archivo instrucciones.txt
-El programa esta escrito en lenguaje python y se documentó para ayudar en caso de que se requiera modificar el programa.
+
+El programa esta escrito en lenguaje python y se documentó para ayudar en caso de que se requiera modificar el programa
